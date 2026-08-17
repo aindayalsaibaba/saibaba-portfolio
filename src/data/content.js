@@ -101,7 +101,7 @@ export const labs = [
     description:
       "A B2B lead-scraping and website-audit engine — pick a niche and a US metro, and it crawls local business sites for contact emails, runs a Gemini Vision audit on their site's conversion friction, and drafts observation-first cold emails with no flattery or filler.",
     tag: "AI, Automation · Live demo",
-    href: "https://6a78a6cf76ec248dc63898ec--luxury-rugelach-aefa04.netlify.app/",
+    href: "https://prospect-pilot-v2.netlify.app/",
   },
 ];
 
