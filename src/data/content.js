@@ -40,6 +40,20 @@ export const work = [
     href: "https://elitemarketingevents.in",
     linkLabel: "Visit live site",
   },
+{
+    tag: "Web · E-commerce Catalogue",
+    period: "2026",
+    company: "Jaiswal Brothers",
+    title: "A 45-product catalogue built to sell over WhatsApp, not a cart",
+    description:
+      "Designed and built a business website in React and Vite for a Hyderabad ice cream raw materials dealer — a 45-product catalogue with category filtering that routes every enquiry straight into WhatsApp instead of a traditional checkout, matching how the business actually takes orders.",
+    detail:
+      "Handled the full build solo, including a tricky product-image regression: an AI-assisted edit pass had reverted the product grid and detail views away from a shared image component, breaking photo rendering across the catalogue. Traced it back and restored consistent image handling across both.",
+    stack: ["React", "Vite", "WhatsApp API", "Product Catalogue UX"],
+    href: "https://jaiswalbrothers.netlify.app/",
+    linkLabel: "Visit live site",
+  },
+
   {
     tag: "AI · Healthcare Automation",
     period: "2025",
@@ -79,6 +93,7 @@ export const work = [
     href: "https://www.buzzboard.ai/zylo/",
     linkLabel: "View product",
   },
+  
 ];
 
 export const labs = [
